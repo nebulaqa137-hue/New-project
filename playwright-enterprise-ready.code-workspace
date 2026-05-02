@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "playwright-enterprise-ready",
+      "path": "./playwright-enterprise-ready"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "playwright-enterprise-ready/node_modules/typescript/lib",
+    "playwright.reuseBrowser": true
+  }
+}
