@@ -17,6 +17,8 @@ export const staticPersonaFisica = {
   email: 'desktop@callcenter.com',
 };
 
+//Nuevo
+
 export const staticPersonaMoral = {
   businessName: 'SA de CV Baby John',
   rfc: 'RELJ9411248N',
